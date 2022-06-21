@@ -124,6 +124,6 @@
 		<servlet-version>3.1.0</servlet-version>
 		<jsp-version>2.0</jsp-version>
 		<jstl-version>1.2</jstl-version>
-		<mysql-driver-version>8.0.16</mysql-driver-version>
+		<mysql-driver-version>8.0.28</mysql-driver-version>
 	</properties>
 </project>
